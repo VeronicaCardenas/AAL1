@@ -3,6 +3,13 @@ body{
 	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
 }
 
+
+
+
+
+
+
+
 #menu-container{
 	margin-left: 20%;
 	margin-right: 20%;
@@ -10,6 +17,7 @@ body{
 
 ul#menu li {
 	padding: 10px;
+	font: 20px;
 	background-color: black;
 	color: white;
     display:inline;
